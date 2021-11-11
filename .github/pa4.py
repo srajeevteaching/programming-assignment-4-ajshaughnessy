@@ -13,7 +13,6 @@
 # player's updated hand and their total point value (see the function decomposition section below for how to calculate
 # points). If, when receiving a new card, the total number of points in the hand goes over 21, the user loses. In this
 # case, the dealer does not play.
-
 # Once the user chooses to not draw any more cards, it is the dealer's turn to play, which is automated as follows. The
 # dealer begins by drawing two cards. As long as the point value of the dealer's hand is less than 17, the dealer draws
 # another card. When the point value of the hand is between 17 and 21 (inclusive), the dealer stops and the two hands
