@@ -3,7 +3,6 @@
 # Programming Assignment: 4
 # Program Inputs: hit or stay
 # Program Outputs: card and result
-
 # Problem Create a program that lets the user play a simplified game of Blackjack, which is played between the user and
 # an automated dealer as follows.
 # The dealer shuffles a standard deck of 52 cards, draws two cards, and gives them to the user. The user can then choose
