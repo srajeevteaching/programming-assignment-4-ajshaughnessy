@@ -6,7 +6,6 @@
 
 # Problem Create a program that lets the user play a simplified game of Blackjack, which is played between the user and
 # an automated dealer as follows.
-
 # The dealer shuffles a standard deck of 52 cards, draws two cards, and gives them to the user. The user can then choose
 # to request another card from the dealer, adding it to their hand. The user can continue to request cards or choose to
 # stop at any time. After each time the user requests a card, the program should output the cards in the
